@@ -14,5 +14,7 @@ Mentorpiece
 ``Глубокое понимание SDLC, STLC``,  ``Получение и анализ логов``, `` Linux (команды, разрешения доступа, потоки, процессы)``
 
 ## Проекты
-> <a href="(https://github.com/irapapara/Mentorpiece/tree/main/1%20Relational%20Databases)">Ссылка на проект</a>
+> <a href="https://github.com/irapapara/Mentorpiece/tree/main/1%20Relational%20Databases">Ссылка на проект</a>
+
+
 
