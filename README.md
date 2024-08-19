@@ -14,7 +14,7 @@ Here you can find my tasks completed during the course.
 ``Глубокое понимание SDLC, STLC``,  ``Gaining and reading logs``, `` Linux (commands, access permissions, streams, processes)``
 
 ## Topics
-> <a href="https://github.com/irapapara/Mentorpiece/tree/main/1%20Relational%20Databases">link to the task</a>
+> <a href="https://github.com/irapapara/Mentorpiece/tree/main/1%20Relational%20Databases">Relational Databases</a>
 
 
 
