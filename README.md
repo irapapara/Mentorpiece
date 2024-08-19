@@ -1,20 +1,21 @@
 # Mentorpiece
-Mentorpiece
-## Портфолио: инженер по тестированию
 
-## Обо мне 
-Привет!
+## Portfolio QA Engineer.
+## About me
+Hello! 
 <br>
-Меня зовут Ирина, я начинающий тестировщик. <br>
-В этом репозитории вы можете найти мои работы, выполненные во время обучения в Mentorpiece
+My name is Irina. I am QA engineer. <br>
+Here you can find my tasks completed during the course.
+
 <br>
 
-## ЗНАНИЯ, НАВЫКИ И УМЕНИЯ
-``тестирование API (Postman, Postman Proxy, Swagger, DevTools, HTTP methods, REST)``,``СУБД  Mysql , Jira, SQL joins, nested queries``,``Git (branching)``,`` IntelliJ IDEA, Gherkin, Docker`` <br>
-``Глубокое понимание SDLC, STLC``,  ``Получение и анализ логов``, `` Linux (команды, разрешения доступа, потоки, процессы)``
+## Knowledge, Skills, and Abilities
+``API testing (Postman, Postman Proxy, Swagger, DevTools, HTTP methods, REST)``,``Mysql database, Jira, SQL joins, nested queries``,``Git (branching)``,`` IntelliJ IDEA, Gherkin, Docker`` <br>
+``Глубокое понимание SDLC, STLC``,  ``Gaining and reading logs``, `` Linux (commands, access permissions, streams, processes)``
 
-## Проекты
-> <a href="https://github.com/irapapara/Mentorpiece/tree/main/1%20Relational%20Databases">Ссылка на проект</a>
+## Topics
+> <a href="https://github.com/irapapara/Mentorpiece/tree/main/1%20Relational%20Databases">link to the task</a>
+
 
 
 
