@@ -21,7 +21,7 @@ Here you can find my tasks completed during the course.
 
 [8. Software Architecture](https://github.com/irapapara/Mentorpiece/blob/main/8.%20Software%20Architecture.pdf)
 
-[9. HTTP, URL, JSON, API](https://github.com/irapapara/Mentorpiece/blob/main/9.%20HTTP%2C%20URL%2C%20JSON%2C%20API.pdf))
+[9. HTTP, URL, JSON, API](https://github.com/irapapara/Mentorpiece/blob/main/9.%20HTTP%2C%20URL%2C%20JSON%2C%20API.pdf)
 
 [10. REST API Testing Tools](https://github.com/irapapara/Mentorpiece/blob/main/10%20REST%20API%20Testing%20Tools.pdf)
 
