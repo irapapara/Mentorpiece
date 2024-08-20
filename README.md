@@ -17,7 +17,7 @@ Here you can find my tasks completed during the course.
 
 [6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
 
-[6.Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+[7. Networks Layers and IP](https://github.com/irapapara/Mentorpiece/blob/main/7%20Networks%20Layers%20and%20IP.pdf)
 
 [6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
 
