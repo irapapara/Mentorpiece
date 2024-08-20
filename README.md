@@ -25,7 +25,9 @@ Here you can find my tasks completed during the course.
 
 [10. REST API Testing Tools](https://github.com/irapapara/Mentorpiece/blob/main/10.%20REST%20API%20Testing%20Tools.pdf)
 
-[11. Web UI](https://github.com/irapapara/Mentorpiece/blob/main/11%20Web%20UI.pdf)
+[11. Web UI](https://github.com/irapapara/Mentorpiece/blob/main/11%20Web%20UI.pdf) 
+
+[11. Web UI_html](https://github.com/irapapara/Mentorpiece/blob/main/ipapara.html)
 
 [6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
 
