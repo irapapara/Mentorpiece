@@ -16,3 +16,29 @@ Here you can find my tasks completed during the course.
 [5.Text processing in Linux](https://github.com/irapapara/Mentorpiece/blob/main/5.Text%20processing%20in%20Linux.pdf)
 
 [6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+
+[6.Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+
+[6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+
+[6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+
+[6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+
+[6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+
+[6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+
+[6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+
+[6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+
+[6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+
+[6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+
+[6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+
+[6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+
+[6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
