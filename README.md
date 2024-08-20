@@ -19,7 +19,7 @@ Here you can find my tasks completed during the course.
 
 [7. Networks Layers and IP](https://github.com/irapapara/Mentorpiece/blob/main/7%20Networks%20Layers%20and%20IP.pdf)
 
-[8. Software Architecture](https://github.com/irapapara/Mentorpiece/blob/main/8%20Software%20Architecture.pdf)
+[8. Software Architecture](https://github.com/irapapara/Mentorpiece/blob/main/8.%20Software%20Architecture.pdf))
 
 [9. HTTP, URL, JSON, API](https://github.com/irapapara/Mentorpiece/blob/main/9%20HTTP%2C%20URL%2C%20JSON%2C%20API.pdf)
 
