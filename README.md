@@ -23,7 +23,7 @@ Here you can find my tasks completed during the course.
 
 [9. HTTP, URL, JSON, API](https://github.com/irapapara/Mentorpiece/blob/main/9.%20HTTP%2C%20URL%2C%20JSON%2C%20API.pdf)
 
-[10. REST API Testing Tools](https://github.com/irapapara/Mentorpiece/blob/main/10%20REST%20API%20Testing%20Tools.pdf)
+[10. REST API Testing Tools](https://github.com/irapapara/Mentorpiece/blob/main/10.%20REST%20API%20Testing%20Tools.pdf)
 
 [11. Web UI](https://github.com/irapapara/Mentorpiece/blob/main/11%20Web%20UI.pdf)
 
