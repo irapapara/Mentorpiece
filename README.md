@@ -7,9 +7,9 @@ Here you can find my tasks completed during the course.
 
 [1. Relational Databases advanced task](https://github.com/irapapara/Mentorpiece/blob/main/1.2%20Relational%20data%20bases%20advanced.pdf) 
 
-[2. SQL Queries](https://github.com/irapapara/Mentorpiece/blob/main/2%20SQL%20queries%20Papara%20.pdf))
+[2. SQL Queries](https://github.com/irapapara/Mentorpiece/blob/main/2%20SQL%20queries%20Papara%20.pdf)
 
-[3. SQL Functions and JOINs](https://github.com/irapapara/Mentorpiece/blob/main/3%20%20SQL%20Functions%20and%20JOINs%20Papara%20.pdf))
+[3. SQL Functions and JOINs](https://github.com/irapapara/Mentorpiece/blob/main/3%20%20SQL%20Functions%20and%20JOINs%20Papara%20.pdf)
 
 [4. Linux Commands and File System](https://github.com/irapapara/Mentorpiece/blob/main/4.%20Linux%20Commands%20and%20File%20System.pdf)
 
@@ -19,7 +19,7 @@ Here you can find my tasks completed during the course.
 
 [7. Networks Layers and IP](https://github.com/irapapara/Mentorpiece/blob/main/7%20Networks%20Layers%20and%20IP.pdf)
 
-[8. Software Architecture](https://github.com/irapapara/Mentorpiece/blob/main/8.%20Software%20Architecture.pdf))
+[8. Software Architecture](https://github.com/irapapara/Mentorpiece/blob/main/8.%20Software%20Architecture.pdf)
 
 [9. HTTP, URL, JSON, API](https://github.com/irapapara/Mentorpiece/blob/main/9%20HTTP%2C%20URL%2C%20JSON%2C%20API.pdf)
 
