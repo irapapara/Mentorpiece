@@ -29,7 +29,7 @@ Here you can find my tasks completed during the course.
 
 [12. Web UI - Tools and testing.](https://github.com/irapapara/Mentorpiece/tree/main/12)
 
-[13. Exploratory testing.](https://github.com/irapapara/Mentorpiece/blob/main/13%20Exploratory%20testing.pdf)
+[13. Exploratory testing.](https://github.com/irapapara/Mentorpiece/tree/main/13)
 
 [6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/14%20UML%2C%20Requirements%20sources%20and%20types.pdf)
 
