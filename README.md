@@ -27,7 +27,7 @@ Here you can find my tasks completed during the course.
 
 [11. Web UI](https://github.com/irapapara/Mentorpiece/blob/main/11%20Web%20UI.pdf) 
 
-[12. Web UI - Tools and testing.] (https://github.com/irapapara/Mentorpiece/tree/main/12)
+[12. Web UI - Tools and testing.](https://github.com/irapapara/Mentorpiece/tree/main/12)
 
 [13. Exploratory testing.](https://github.com/irapapara/Mentorpiece/blob/main/13%20Exploratory%20testing.pdf)
 
