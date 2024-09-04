@@ -59,7 +59,7 @@ Here you can find my tasks completed during the course.
 
 [27. Test Automation: Gherkin](https://github.com/irapapara/Mentorpiece/blob/main/27%20Test%20Automation_%20Gherkin.pdf)
 
-
+[28. Git overview](https://github.com/irapapara/Mentorpiece/tree/main/28)
 
 [29. Docker overview](https://github.com/irapapara/Mentorpiece/blob/main/29.%20Docker%20overview.pdf)
 
