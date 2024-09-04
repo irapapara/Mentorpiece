@@ -52,3 +52,20 @@ Here you can find my tasks completed during the course.
 [23. Test Design Techniques: Decision tables](https://github.com/irapapara/Mentorpiece/blob/main/23.%20Test%20Design%20Techniques_%20Decision%20tables.pdf)
 
 [24. Test Design Techniques: State-transition diagrams](https://github.com/irapapara/Mentorpiece/blob/main/24%20Test%20Design%20Techniques_%20State-transition%20diagrams.pdf)
+
+[25. Test Design tasks: Online workshop](https://github.com/irapapara/Mentorpiece/blob/main/25%20Test%20Design%20tasks.%20Create%20Checklist.pdf)
+
+[26. What is Test Automation]()
+
+[27. Test Automation: Gherkin]()
+
+[28. Git overview]()
+
+[29. Docker overview]()
+
+[30. Agile vs. Waterfall]()
+
+[31. Releases]()
+
+[32. SCRUM]()
+
