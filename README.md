@@ -31,7 +31,7 @@ Here you can find my tasks completed during the course.
 
 [13. Exploratory testing.](https://github.com/irapapara/Mentorpiece/tree/main/13)
 
-[14. UML, Requirements sources and types](https://github.com/irapapara/Mentorpiece/blob/main/14%20UML%2C%20Requirements%20sources%20and%20types.pdf)
+[14. UML, Requirements sources and types](https://github.com/irapapara/Mentorpiece/blob/main/14.%20UML%2C%20Requirements%20sources%20and%20types.pdf)
 
 [15. Test Documentation](https://github.com/irapapara/Mentorpiece/blob/main/15%20Test%20Documentation.pdf)
 
