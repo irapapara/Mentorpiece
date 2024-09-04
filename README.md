@@ -55,17 +55,17 @@ Here you can find my tasks completed during the course.
 
 [25. Test Design tasks: Online workshop](https://github.com/irapapara/Mentorpiece/blob/main/25%20Test%20Design%20tasks.%20Create%20Checklist.pdf)
 
-[26. What is Test Automation]()
+[26. What is Test Automation](https://github.com/irapapara/Mentorpiece/blob/main/26.%20What%20is%20Test%20Automation.%20.pdf)
 
-[27. Test Automation: Gherkin]()
+[27. Test Automation: Gherkin](https://github.com/irapapara/Mentorpiece/blob/main/27%20Test%20Automation_%20Gherkin.pdf)
 
-[28. Git overview]()
+[28. Git overview](https://github.com/irapapara/Mentorpiece/blob/main/28%20Git%20overview.pdf)
 
-[29. Docker overview]()
+[29. Docker overview](https://github.com/irapapara/Mentorpiece/blob/main/29.%20Docker%20overview.pdf)
 
-[30. Agile vs. Waterfall]()
+[30. Agile vs. Waterfall](https://github.com/irapapara/Mentorpiece/blob/main/30%20Agile%20vs.%20Waterfall.pdf)
 
-[31. Releases]()
+[31. Releases](https://github.com/irapapara/Mentorpiece/blob/main/31%20Releases.pdf)
 
-[32. SCRUM]()
+[32. SCRUM](https://github.com/irapapara/Mentorpiece/blob/main/32%20SCRUM.pdf)
 
