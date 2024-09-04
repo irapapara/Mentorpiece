@@ -44,3 +44,5 @@ Here you can find my tasks completed during the course.
 [19. Non-functional testing synopsis](https://github.com/irapapara/Mentorpiece/blob/main/19%20Non-functional%20testing%20synopsis.pdf)
 
 [20. Test Design Techniques: White, Gray, Black box](https://github.com/irapapara/Mentorpiece/blob/main/20%20Test%20Design%20Techniques_%20White%2C%20Gray%2C%20Black%20box.pdf)
+
+[21. Test Design Techniques: Equivalence classes and Boundary Values analysis] (https://github.com/irapapara/Mentorpiece/blob/main/21.%20Test%20Design%20Techniques_%20Equivalence%20classes%20and%20Boundary%20Values%20analysis.pdf)
