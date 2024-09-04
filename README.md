@@ -46,3 +46,5 @@ Here you can find my tasks completed during the course.
 [20. Test Design Techniques: White, Gray, Black box](https://github.com/irapapara/Mentorpiece/blob/main/20%20Test%20Design%20Techniques_%20White%2C%20Gray%2C%20Black%20box.pdf)
 
 [21. Test Design Techniques: Equivalence classes and Boundary Values analysis](https://github.com/irapapara/Mentorpiece/blob/main/21.%20Test%20Design%20Techniques_%20Equivalence%20classes%20and%20Boundary%20Values%20analysis.pdf)
+
+[22. Test Design Techniques: Pairwise testing](https://github.com/irapapara/Mentorpiece/blob/main/22%20Test%20Design%20Techniques_%20Pairwise%20testing.pdf)
