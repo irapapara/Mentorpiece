@@ -37,4 +37,4 @@ Here you can find my tasks completed during the course.
 
 [16. Defects](https://github.com/irapapara/Mentorpiece/blob/main/16%20Defects.pdf)
 
-[17. Static testing](https://github.com/irapapara/Mentorpiece/blob/main/17%20Static%20testing.pdf))
+[17. Static testing](https://github.com/irapapara/Mentorpiece/blob/main/17%20Static%20testing.pdf)
