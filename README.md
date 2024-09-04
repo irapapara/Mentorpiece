@@ -33,8 +33,7 @@ Here you can find my tasks completed during the course.
 
 [12.3 Web UI - Tools and testing(continuation).](https://github.com/irapapara/Mentorpiece/blob/main/12.3%20Web%20UI%20-%20Tools%20and%20testing.pdf)
 
-[6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
-
+[13. Exploratory testing.](https://github.com/irapapara/Mentorpiece/blob/main/13%20Exploratory%20testing.pdf)
 [6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
 
 [6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
