@@ -51,4 +51,4 @@ Here you can find my tasks completed during the course.
 
 [23. Test Design Techniques: Decision tables](https://github.com/irapapara/Mentorpiece/blob/main/23.%20Test%20Design%20Techniques_%20Decision%20tables.pdf)
 
-[24. Test Design Techniques: State-transition diagrams] ( https://github.com/irapapara/Mentorpiece/blob/main/24%20Test%20Design%20Techniques_%20State-transition%20diagrams.pdf)
+[24. Test Design Techniques: State-transition diagrams](https://github.com/irapapara/Mentorpiece/blob/main/24%20Test%20Design%20Techniques_%20State-transition%20diagrams.pdf)
