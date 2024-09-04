@@ -42,3 +42,5 @@ Here you can find my tasks completed during the course.
 [18. Test classification: Levels of testing](https://github.com/irapapara/Mentorpiece/blob/main/18%20Test%20classification_%20Levels%20of%20testing.pdf)
 
 [19. Non-functional testing synopsis](https://github.com/irapapara/Mentorpiece/blob/main/19%20Non-functional%20testing%20synopsis.pdf)
+
+[20. Test Design Techniques: White, Gray, Black box](https://github.com/irapapara/Mentorpiece/blob/main/20%20Test%20Design%20Techniques_%20White%2C%20Gray%2C%20Black%20box.pdf)
