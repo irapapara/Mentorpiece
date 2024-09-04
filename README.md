@@ -40,3 +40,5 @@ Here you can find my tasks completed during the course.
 [17. Static testing](https://github.com/irapapara/Mentorpiece/blob/main/17%20Static%20testing.pdf)
 
 [18. Test classification: Levels of testing](https://github.com/irapapara/Mentorpiece/blob/main/18%20Test%20classification_%20Levels%20of%20testing.pdf)
+
+[19. Non-functional testing synopsis](https://github.com/irapapara/Mentorpiece/blob/main/19%20Non-functional%20testing%20synopsis.pdf)
