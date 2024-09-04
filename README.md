@@ -55,7 +55,7 @@ Here you can find my tasks completed during the course.
 
 [25. Test Design tasks: Online workshop](https://github.com/irapapara/Mentorpiece/blob/main/25%20Test%20Design%20tasks.%20Create%20Checklist.pdf)
 
-[26. What is Test Automation](https://github.com/irapapara/Mentorpiece/blob/main/26.%20What%20is%20Test%20Automation.%20.pdf))
+[26. What is Test Automation](https://github.com/irapapara/Mentorpiece/blob/main/26.%20What%20is%20Test%20Automation.%20.pdf)
 
 [27. Test Automation: Gherkin](https://github.com/irapapara/Mentorpiece/blob/main/27%20Test%20Automation_%20Gherkin.pdf)
 
