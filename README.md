@@ -33,8 +33,8 @@ Here you can find my tasks completed during the course.
 
 [14. UML, Requirements sources and types](https://github.com/irapapara/Mentorpiece/blob/main/14%20UML%2C%20Requirements%20sources%20and%20types.pdf)
 
-[6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+[15. Test Documentation](https://github.com/irapapara/Mentorpiece/blob/main/15%20Test%20Documentation.pdf)
 
-[6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
+[16. Defects](https://github.com/irapapara/Mentorpiece/blob/main/16%20Defects.pdf)
 
 [6. Networks overview.](https://github.com/irapapara/Mentorpiece/blob/main/6%20Networks%20overview.pdf)
