@@ -1,5 +1,5 @@
 # Mentorpiece
-[Mentorpiece Pre-middle QA manual testing + internship](https://mentorpiece.education/qa-course)
+Mentorpiece Pre-middle QA manual testing + internship
 ## Topics
 Here you can find my tasks completed during the course.
 
